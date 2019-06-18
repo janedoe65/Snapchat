@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856138154336",
+    "firebase_url": "https://android8maps-1558084579814.firebaseio.com",
+    "project_id": "android8maps-1558084579814",
+    "storage_bucket": "android8maps-1558084579814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856138154336:android:ab92df48e959de11",
+        "android_client_info": {
+          "package_name": "com.example.snapchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856138154336-t0sdckmoiq84agtt0imotbck5e7ifo2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnCkSKHQL7sHirnXJwhoXVIJRTGmaZtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856138154336-t0sdckmoiq84agtt0imotbck5e7ifo2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
